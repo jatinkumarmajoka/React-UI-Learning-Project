@@ -19,7 +19,7 @@ This project focuses on reusable design patterns, simplicity, and fast performan
 
 ## 💻 Setup
 ```bash
-git clone https://github.com/your-username/react-ui-project.git
-cd react-ui-project
+git clone https://github.com/your-username/React-UI-Learning-Project.git
+cd React-UI-Learning-Project
 npm install
 npm run dev
